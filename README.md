@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi I' am Saiprasad👋 <br>👔 I’m a BCA Student <br>🇮🇳 I live in India <br>💫 I’m currently learning C, C++, Python, Postgresql, Java <br>⚡ Fun fact: I'm good Artist.🎨<br>Improving my skills in PROGRAMMING day by day<br>
+Hi I' am Saiprasad👋 <br>👔 I’m a BCA Student <br>🇮🇳 I live in India <br>💫 I’m currently learning C, C++, Python, Postgresql, Java <br>⚡ Fun fact: I'm good Artist.🎨<br>Improving my skills in PROGRAMMING day by day<br><i>"Coding cannot be something that you just study by observing,It something learn by doing"</i> Just Do it and make it 
+
 
 
 
