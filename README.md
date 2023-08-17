@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saiprasad Tanpure</h1>
 <h3 align="center">Student | A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"></br></br><br>
-👔 I’m a BCA Student <br>🇮🇳 I live in India <br>
-💫 I’m currently learning  Python, Java <br>
-⚡ Fun fact:**i think i am funny**, And also I'm good Artist.🎨🧑‍🎨
-<br>🧑‍💻Improving my skills in PROGRAMMING day by day<br>
-<i><u>"Coding cannot be something that you just study by observing👀,It something learn by doing✍️"</i></u><br>
-✨ Just Do it and make it ✨
+- 👔 I’m a BCA Student <br>🇮🇳 I live in India <br>
+- 💫 I’m currently learning  Python, Java <br>
+- ⚡ Fun fact: i think i am funny, And also I'm good Artist.🎨🧑‍🎨
+- <br>🧑‍💻Improving my skills in PROGRAMMING day by day<br>
+- <i><u>"Coding cannot be something that you just study by observing👀,It something learn by doing✍️"</i></u><br>
+- ✨ Just Do it and make it ✨
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saiprasad.tanpure.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saiprasad_tanpure__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiprasad-tanpure-983727231) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/saiprasadtanpure) 
