@@ -2,8 +2,8 @@
 <h3 align="center">Student | A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"></br></br><br>
  <ul>
-   <li>👔 I’m a BCA Student 
-   <li><br>🇮🇳 I live in India <br>
+   <li>👔 I’m a BCA Student <br>
+   <li>🇮🇳 I live in India <br>
    <li>💫 I’m currently learning  Python, Java<br>
    <li>⚡ Fun fact: i think i am funny, And also I'm good Artist.🎨🧑‍🎨<br>
   <\ul>
