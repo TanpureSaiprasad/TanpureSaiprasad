@@ -2,11 +2,12 @@
 <h3 align="center">Student | A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"></br></br><br>
  <ul>
-   <li>👔 I’m a BCA Student <br>🇮🇳 I live in India <\li><br>
-   <li>💫 I’m currently learning  Python, Java<\li> <br>
-   <li>⚡ Fun fact: i think i am funny, And also I'm good Artist.🎨🧑‍🎨<\li>
+   <li>👔 I’m a BCA Student 
+   <li><br>🇮🇳 I live in India <br>
+   <li>💫 I’m currently learning  Python, Java<br>
+   <li>⚡ Fun fact: i think i am funny, And also I'm good Artist.🎨🧑‍🎨<br>
   <\ul>
-  <br>🧑‍💻Improving my skills in PROGRAMMING day by day<br>
+  🧑‍💻Improving my skills in PROGRAMMING day by day<br>
   <i><u>"Coding cannot be something that you just study by observing👀,It something learn by doing✍️"</i></u><br>
  ✨ Just Do it and make it ✨
 
