@@ -5,9 +5,9 @@
    <li>👔 I’m a BCA Student <br>
    <li>🇮🇳 I live in India <br>
    <li>💫 I’m currently learning  Python, Java<br>
-   <li>⚡ Fun fact: i think i am funny, And also I'm good Artist.🎨🧑‍🎨<br>
+   <li>⚡ Fun fact: i think i am funny, And also I'm good Artist.🎨🧑‍🎨<br><br>
   <\ul>
-  🧑‍💻Improving my skills in PROGRAMMING day by day<br>
+  🧑‍💻Improving my skills in PROGRAMMING day by day<br><br>
   <i><u>"Coding cannot be something that you just study by observing👀,It something learn by doing✍️"</i></u><br>
  ✨ Just Do it and make it ✨
 
